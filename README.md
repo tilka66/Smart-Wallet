@@ -14,4 +14,4 @@ Features:
 
 Developed using Python and tkinter.
 
-This is optional, but it makes the repository look much more complete.
+
